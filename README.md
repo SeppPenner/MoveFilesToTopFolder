@@ -2,7 +2,6 @@ MoveFilesToTopFolder
 ====================================
 
 MoveFilesToTopFolder is an example project to move all mp3 files from a directory to one top folder.
-The executable was written and tested in .Net 5.0.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/dwd868ofr04o4b58?svg=true)](https://ci.appveyor.com/project/SeppPenner/movefilestotopfolder)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/MoveFilesToTopFolder.svg)](https://github.com/SeppPenner/MoveFilesToTopFolder/issues)
